@@ -1,2 +1,2 @@
 # COVID19_Study
-Retrospective Study on COVID-19 Patient Population from UF Health.
+Machine Learning-Based Prediction Models for Home Discharge in Patients with COVID-19: Development and Evaluation Using Electronic Health Records
